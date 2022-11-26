@@ -1,0 +1,135 @@
+10 2 70X
+100 1 10X
+Total time elapsed: 110ns
+Total CPU burst time: 80ns
+CPU Utilization: 72%
+Throughput: 0.01818181818181818 processes/ns 
+Waiting times:
+Process 1: 0ns
+Process 2: 0ns
+Average waiting time: 0ns
+Turnaround times:
+Process 1: 10ns
+Process 2: 70ns
+Average turnaround time: 40ns
+Response times:
+Process 1: 0ns
+Process 2: 0ns
+Average response time: 0ns
+0 4 3X
+3 1 6X
+9 2 2X
+11 5 4X
+15 3 8X
+Total time elapsed: 23ns
+Total CPU burst time: 23ns
+CPU Utilization: 100%
+Throughput: 0.2173913043478261 processes/ns      
+Waiting times:
+Process 1: 1ns
+Process 2: 4ns
+Process 3: 14ns
+Process 4: 0ns
+Process 5: 7ns
+Average waiting time: 5.2ns
+Turnaround times:
+Process 1: 7ns
+Process 2: 6ns
+Process 3: 22ns
+Process 4: 3ns
+Process 5: 11ns
+Average turnaround time: 9.800000000000001ns     
+Response times:
+Process 1: 1ns
+Process 2: 4ns
+Process 3: 14ns
+Process 4: 0ns
+Process 5: 7ns
+Average response time: 5.2ns
+0 1 20
+20 3 3X
+23 1 17
+40 2 2X
+42 1 13X
+55 4 55X
+Total time elapsed: 110ns
+Total CPU burst time: 110ns
+CPU Utilization: 100%
+Throughput: 0.03636363636363636 processes/ns     
+Waiting times:
+Process 1: 5ns
+Process 2: 0ns
+Process 3: 0ns
+Process 4: 25ns
+Average waiting time: 7.5ns
+Turnaround times:
+Process 1: 55ns
+Process 2: 2ns
+Process 3: 3ns
+Process 4: 80ns
+Average turnaround time: 35ns
+Response times:
+Process 1: 0ns
+Process 2: 0ns
+Process 3: 0ns
+Process 4: 25ns
+Average response time: 6.25ns
+0 1 1
+1 2 1X
+2 3 3X
+5 1 7X
+12 4 2X
+14 5 6X
+Total time elapsed: 20ns
+Total CPU burst time: 20ns
+CPU Utilization: 100%
+Throughput: 0.25 processes/ns
+Waiting times:
+Process 1: 4ns
+Process 2: 0ns
+Process 3: 0ns
+Process 4: 9ns
+Process 5: 10ns
+Average waiting time: 4.6ns
+Turnaround times:
+Process 1: 12ns
+Process 2: 1ns
+Process 3: 3ns
+Process 4: 11ns
+Process 5: 16ns
+Average turnaround time: 8.6ns
+Response times:
+Process 1: 0ns
+Process 2: 0ns
+Process 3: 0ns
+Process 4: 9ns
+Process 5: 10ns
+Average response time: 3.8ns
+0 1 25
+25 2 25
+55 1 5X
+70 4 15X
+90 2 20X
+100 3 10X
+Total time elapsed: 100ns
+Total CPU burst time: 100ns
+CPU Utilization: 100%
+Throughput: 0.04 processes/ns
+Waiting times:
+Process 1: 25ns
+Process 2: 20ns
+Process 3: 15ns
+Process 4: 0ns
+Average waiting time: 15ns
+Turnaround times:
+Process 1: 55ns
+Process 2: 65ns
+Process 3: 25ns
+Process 4: 15ns
+Average turnaround time: 40ns
+Response times:
+Process 1: 0ns
+Process 2: 0ns
+Process 3: 15ns
+Process 4: 0ns
+Average response time: 3.75ns
